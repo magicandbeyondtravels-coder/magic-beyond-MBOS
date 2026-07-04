@@ -2,11 +2,18 @@
 id: mbos.core.brand-philosophy
 title: Brand Philosophy
 type: reference
-status: draft
+status: active
 owner: reshma
 updated: 2026-07-04
+related:
+  - mbos.core.positioning
+  - mbos.core.mission
 ---
 
-# Brand philosophy
+# Brand Philosophy
 
-Placeholder. Will define the core beliefs that shape how the brand thinks and behaves: the convictions about travel, families and service that underlie every other identity object in this domain.
+## Guiding principle
+
+Every website page, lead magnet, consultation, CRM workflow and AI assistant should reinforce one central idea:
+
+**Magic & Beyond Travels exists to help families confidently make complex vacation decisions and turn travel overwhelm into meaningful memories.**

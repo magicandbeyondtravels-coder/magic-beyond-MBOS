@@ -2,11 +2,16 @@
 id: mbos.core.brand-promise
 title: Brand Promise
 type: reference
-status: draft
+status: active
 owner: reshma
 updated: 2026-07-04
+related:
+  - mbos.core.positioning
+  - mbos.core.mission
 ---
 
-# Brand promise
+# Brand Promise
 
-Placeholder. Will state the concrete commitment the business makes to every client, in one sentence: what a client can always count on.
+**We don't simplify the trip.**
+
+**We simplify the decision.**

@@ -2,11 +2,20 @@
 id: mbos.core.ideal-client
 title: Ideal Client
 type: persona
-status: draft
+status: active
 owner: reshma
 updated: 2026-07-04
+related:
+  - mbos.core.positioning
 ---
 
-# Ideal client
+# Ideal Client
 
-Placeholder. Will describe who the business serves best: the traveler or family profile the brand, offerings and marketing are built around. A fuller segment and persona model belongs in `customers/`; this object holds the brand-level summary of who the identity in this domain is speaking to.
+Families planning vacations that feel complicated.
+
+Typical examples include:
+
+* Parents overwhelmed by too many destination choices.
+* Families balancing children, grandparents and extended relatives.
+* Travelers comparing Disney, Europe, cruises and other major vacations.
+* Families making significant financial investments who want confidence before booking.

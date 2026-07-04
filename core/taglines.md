@@ -2,11 +2,14 @@
 id: mbos.core.taglines
 title: Taglines
 type: reference
-status: draft
+status: active
 owner: reshma
 updated: 2026-07-04
+related:
+  - mbos.core.positioning
+  - mbos.core.brand-promise
 ---
 
 # Taglines
 
-Placeholder. Will list the approved tagline or taglines for the business, with guidance on when each applies.
+**Turning Travel Overwhelm Into Meaningful Memories.**
