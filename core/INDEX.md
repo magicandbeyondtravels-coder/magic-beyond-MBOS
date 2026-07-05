@@ -10,7 +10,6 @@ The `core` domain holds business identity: mission, vision, values, brand philos
 | [vision.md](vision.md) | Vision | strategy | draft |
 | [brand-philosophy.md](brand-philosophy.md) | Brand Philosophy | reference | active |
 | [positioning.md](positioning.md) | Positioning | strategy | active |
-| [ideal-client.md](ideal-client.md) | Ideal Client | persona | active |
 | [customer-transformation.md](customer-transformation.md) | Customer Transformation | reference | active |
 | [brand-promise.md](brand-promise.md) | Brand Promise | reference | active |
 | [brand-voice.md](brand-voice.md) | Brand Voice | reference | draft |

@@ -6,7 +6,6 @@ status: active
 owner: reshma
 updated: 2026-07-04
 related:
-  - mbos.core.positioning
   - mbos.core.mission
 ---
 

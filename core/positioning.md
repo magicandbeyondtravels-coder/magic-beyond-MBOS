@@ -7,7 +7,6 @@ owner: reshma
 updated: 2026-07-04
 related:
   - mbos.core.mission
-  - mbos.core.ideal-client
   - mbos.core.brand-promise
   - mbos.core.taglines
   - mbos.core.differentiators
@@ -45,4 +44,6 @@ Modern families are overwhelmed by information, conflicting advice, changing pri
 
 ## Related identity objects
 
-This positioning is built on, and should be read alongside, the following canonical objects: who we serve ([ideal-client.md](ideal-client.md)), the transformation clients experience ([customer-transformation.md](customer-transformation.md)), our brand promise ([brand-promise.md](brand-promise.md)), our tagline ([taglines.md](taglines.md)), our mission ([mission.md](mission.md)), what differentiates us ([differentiators.md](differentiators.md)), and the guiding principle that governs how this positioning is applied ([brand-philosophy.md](brand-philosophy.md)).
+This positioning is built on, and should be read alongside, the following canonical objects: the transformation clients experience ([customer-transformation.md](customer-transformation.md)), our brand promise ([brand-promise.md](brand-promise.md)), our tagline ([taglines.md](taglines.md)), our mission ([mission.md](mission.md)), what differentiates us ([differentiators.md](differentiators.md)), and the guiding principle that governs how this positioning is applied ([brand-philosophy.md](brand-philosophy.md)).
+
+Who we serve is defined in [customers/ideal-client.md](../customers/ideal-client.md).
